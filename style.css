@@ -1,0 +1,101 @@
+/**
+* HW-Wireframe Layout Activity
+**/
+
+body {
+	font-size: 24px;	
+	background-color: #777;
+	width: 960px;
+}
+
+header {
+	background-color: #ebebeb;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	color: #777;
+}
+
+nav {
+	background-color: #ebebeb;
+	text-align: center;
+	margin-left: 200px;
+	color: #777;
+	padding: 20px;
+	margin: 10px;
+}
+
+section {
+	background-color: #ebebeb;
+	text-align: center;
+	color: #777;
+	padding: 20px;
+	margin: 10px;
+}
+
+aside {
+	background-color: #ebebeb;
+	text-align: center;
+	color: #777;
+	padding: 20px;
+	margin: 10px;
+}
+
+section {
+	background-color: #ebebeb;
+	text-align: center;
+	color: #777;
+	padding: 20px;
+	margin: 10px;
+	display: block;
+	float: left;
+	width: 55%;
+}
+
+aside {
+	background-color: #ebebeb;
+	text-align: center;
+	color: #777;
+	padding: 20px;
+	margin: 10px;
+	display: block;
+	float: right;
+	width: 32%; 
+	height: 264px;
+}
+
+.clear {
+	clear: both;
+}
+
+article {
+	background-color: #777;
+	color: #ebebeb;
+	padding: 20px;
+	text-align: center;
+}
+
+h1 {
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	padding: 20px;
+	margin: 10px;
+}
+
+p {
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	padding: 20px;
+	margin: 10px;
+}
+
+footer {
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	padding: 20px;	
+	margin: 10px;
+	margin-top: 340px;
+	}
